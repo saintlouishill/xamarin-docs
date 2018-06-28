@@ -17,7 +17,7 @@ _Listed by primary location, many partners provide services across borders._
 
 | Partner | Locations | Description |
 | --- | --- | --- |
-|[10 Pearls](http://10pearls.com/get-in-touch/)|Herndon, VA; Toronto, ON, Canada; Dubai - United Arab Emirates; Karachi, Pakistan|10 Pearls builds custom end-to-end technology solutions for diverse clients including large enterprises, small & medium sized business as well as high growth start-ups|
+|[Alambda](http://www.alambda.com/)|Herndon, VA; Toronto, ON, Canada; Dubai - United Arab Emirates; Karachi, Pakistan|10 Pearls builds custom end-to-end technology solutions for diverse clients including large enterprises, small & medium sized business as well as high growth start-ups|
 |[1st Version, Inc.](http://www.1stversion.com)|Miami, FL|1st.version is a digital consulting agency with innovative workforce , providing and building effective solutions to our customers|
 |[3Seed Marketing](http://www.3seedmarketing.com/)|Schnecksville, PA|3Seed Marketing, Design & Interactive is a full-service marketing agency.|
 |[AAJ Technologies](http://www.aajtech.com/services/enterprise-mobility/)|Ft. Lauderdale, FL; Santa Fe, Argentina; Vancouver, Canada|AAJ Technologies is a full-service systems integrator offering application development, enterprise mobility, cloud computing, business intelligence, and application lifecycle management.|
